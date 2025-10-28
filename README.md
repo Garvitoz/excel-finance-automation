@@ -30,7 +30,7 @@ Output file: `monthly_summary.xlsx`
 2. Run the script:python finance_automation.py
 3. The summary report `monthly_summary.xlsx` will be created.
 
-## Author
+# Author
 Garvit Arora  
 📍 Delhi, India  
 📧 agarvit130@gmail.com  
