@@ -1,12 +1,30 @@
 # Excel Finance Automation
 
-A Python script to automate monthly financial report generation from Excel data.
+This is a small Python project that automates monthly financial report generation from an Excel sheet.
+
+It calculates net profit/loss for each category and saves a clean summary file automatically.
 
 ## Features
-- Cleans and processes Excel data automatically
+- Reads financial data from Excel
 - Calculates total profit/loss by category
-- Exports a ready-to-use Excel summary
+- Exports results into a new Excel file
+- Very useful for small businesses or students learning automation
+
+## Example
+Input file: `sample_data.xlsx`
+
+| Category | Revenue | Expenses |
+|-----------|----------|----------|
+| Sales | 10000 | 4000 |
+| Marketing | 6000 | 2000 |
+
+Output file: `monthly_summary.xlsx`
+
+| Category | Net |
+|-----------|-----|
+| Sales | 6000 |
+| Marketing | 4000 |
 
 ## How to Use
-1. Place your Excel file (e.g., `sample_data.xlsx`) in the same folder.
-2. Run:
+1. Place your Excel file (e.g., `sample_data.xlsx`) in the same folder.  
+2. Run the script:
