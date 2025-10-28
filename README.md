@@ -29,3 +29,9 @@ Output file: `monthly_summary.xlsx`
 1. Place your Excel file (e.g., `sample_data.xlsx`) in the same folder.  
 2. Run the script:python finance_automation.py
 3. The summary report `monthly_summary.xlsx` will be created.
+
+## Author
+Garvit Arora  
+📍 Delhi, India  
+📧 agarvit130@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/garvit-arora-7462a0334)
