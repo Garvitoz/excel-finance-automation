@@ -1,0 +1,7 @@
+# Ignore Excel output files
+*.xlsx
+!sample_data.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
